@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/abhinav/.gradle/caches/modules-2/files-2.1/com.github.nkzawa/socket.io-client/0.5.0/7d40c590385ba95b34920eb89c986757a79968af/socket.io-client-0.5.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7d40c590385ba95b34920eb89c986757a79968af">
+        <dex dex="/home/abhinav/AndroidStudioProjects/Chat using sockets/AndroidChat-master/app/build/intermediates/pre-dexed/debug/socket.io-client-0.5.0_549ad6eff4ae3675561568b3564f2b8adbf82b6f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/abhinav/.android/build-cache/1ebadc7dd224acc13ff27c902ad0a40da58cb6e6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/home/abhinav/AndroidStudioProjects/Chat using sockets/AndroidChat-master/app/build/intermediates/pre-dexed/debug/classes_69b42ba032c81981dc2f47065c5434c8d15636c9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/abhinav/.android/build-cache/80bee39493e92ce91d1b5c2a5bf249222ce4c526/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/home/abhinav/AndroidStudioProjects/Chat using sockets/AndroidChat-master/app/build/intermediates/pre-dexed/debug/classes_b96354d12f39d3b4505cb9db96380a1a5279eae6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/abhinav/.android/build-cache/4295142df7b904cd8f865901ffa9c6b211399c3f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/abhinav/AndroidStudioProjects/Chat using sockets/AndroidChat-master/app/build/intermediates/pre-dexed/debug/classes_61af65cbf16a3a4c36f8bf35c6b0a7761ec51b76.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/abhinav/.android/build-cache/c3755ea89aa2887358063277abc4f654302d4bfb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/home/abhinav/AndroidStudioProjects/Chat using sockets/AndroidChat-master/app/build/intermediates/pre-dexed/debug/classes_97c7ce3458f3a63d9d316d9ef560a3aa39864ee5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/abhinav/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.3.0/1b355f73402020c5a0dcca58affc3ec3dfeabac1/okio-1.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="1b355f73402020c5a0dcca58affc3ec3dfeabac1">
+        <dex dex="/home/abhinav/AndroidStudioProjects/Chat using sockets/AndroidChat-master/app/build/intermediates/pre-dexed/debug/okio-1.3.0_cf05e5f248724d9a720e9345c8af0dbd8f156dce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/abhinav/.android/build-cache/fe4c783c16891e15214ed4eea83e7de579847924/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/home/abhinav/AndroidStudioProjects/Chat using sockets/AndroidChat-master/app/build/intermediates/pre-dexed/debug/classes_b5be4d5a4e6ff8de0aa137db108b930a32e6fae1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/abhinav/.android/build-cache/a6d7aad1bf7048a89b030dc00a38cb0fcd2e0550/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/home/abhinav/AndroidStudioProjects/Chat using sockets/AndroidChat-master/app/build/intermediates/pre-dexed/debug/classes_0730f38aaab83b3ba537eb14ef954570eac8dd2f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/abhinav/.android/build-cache/012242d4d0ecd586fa3a2e7c4209df3a750fb28f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/home/abhinav/AndroidStudioProjects/Chat using sockets/AndroidChat-master/app/build/intermediates/pre-dexed/debug/classes_1347d5fd98543a13e9b80d37cb26b0011f3a38a1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/abhinav/.gradle/caches/modules-2/files-2.1/com.android.support.constraint/constraint-layout-solver/1.0.2/b9cd8fc6bd15cb915735d34535db30ece0c44603/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/home/abhinav/AndroidStudioProjects/Chat using sockets/AndroidChat-master/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_a92de9c9b98757da17e822894e4f31b0ba7c9959.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/abhinav/.android/build-cache/7311ea4ff5fea7a607837923e4c80466d9769e96/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/home/abhinav/AndroidStudioProjects/Chat using sockets/AndroidChat-master/app/build/intermediates/pre-dexed/debug/classes_1c648223ab4a3ee42a5f91c78175b422fe42a629.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/abhinav/.android/build-cache/e811a4171f80cae6084450f0aeef42d3752cf50b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/home/abhinav/AndroidStudioProjects/Chat using sockets/AndroidChat-master/app/build/intermediates/pre-dexed/debug/classes_bcebb65ab58d16db2ee01990dd5f9a2eac7de2a2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/abhinav/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp-ws/2.3.0/7896d229b6aa7884552ab9c23de54c7eb0de8203/okhttp-ws-2.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7896d229b6aa7884552ab9c23de54c7eb0de8203">
+        <dex dex="/home/abhinav/AndroidStudioProjects/Chat using sockets/AndroidChat-master/app/build/intermediates/pre-dexed/debug/okhttp-ws-2.3.0_14de13108aa85025b06c703eab630f5b4e3e8cc6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/abhinav/.gradle/caches/modules-2/files-2.1/com.github.nkzawa/engine.io-client/0.5.0/72f54ba32a0d735630ebc33a5c39e14a5dd45492/engine.io-client-0.5.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="72f54ba32a0d735630ebc33a5c39e14a5dd45492">
+        <dex dex="/home/abhinav/AndroidStudioProjects/Chat using sockets/AndroidChat-master/app/build/intermediates/pre-dexed/debug/engine.io-client-0.5.0_284dda304f0aa44f612d8401f6330dbdd1ddfa45.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/abhinav/.android/build-cache/6e9a9769b417868c27535062133d4c626a50fd55/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/home/abhinav/AndroidStudioProjects/Chat using sockets/AndroidChat-master/app/build/intermediates/pre-dexed/debug/classes_ef79102c0a6a814fd9e5bbbcb94b1c0467239faf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/abhinav/.android/build-cache/7527c2f96cc50a446d12d897636bf67536fcd260/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/home/abhinav/AndroidStudioProjects/Chat using sockets/AndroidChat-master/app/build/intermediates/pre-dexed/debug/classes_cf2a6bc0cde6631bd48b12593e68c75600e9b201.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/abhinav/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.3.0/2e7bc7033dc2c8423e661224171b3133fb155b28/okhttp-2.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2e7bc7033dc2c8423e661224171b3133fb155b28">
+        <dex dex="/home/abhinav/AndroidStudioProjects/Chat using sockets/AndroidChat-master/app/build/intermediates/pre-dexed/debug/okhttp-2.3.0_87f579c2514a9be50a0b6183b836471a877374f8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/abhinav/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/25.3.1/bf8841d29fa39e077730e7a91222c2ce269fa7c9/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/home/abhinav/AndroidStudioProjects/Chat using sockets/AndroidChat-master/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_46aa5dba45519957170ee49d382cf6926d487672.jar" />
+    </item>
+
+</items>
